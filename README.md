@@ -12,3 +12,6 @@
  
  # LIVE PREVIEW OF THE SITE :
  [INDIAN__ CUISINE](https://rooxera.github.io/restaurant/)
+ 
+ # RATE MY WORK :
+ [RATE IT PLS](https://forms.gle/vt95CWBNEtCWSXKa8)
